@@ -1,1 +1,1 @@
-
+Write a program to implement the Cohen-Sutherland Line Clipping algorithm using C++. Define region codes for endpoints and clip the line against a rectangular clipping window. Print whether the line is accepted or rejected, and display the final clipped line segment if accepted.
