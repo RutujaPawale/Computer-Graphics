@@ -1,1 +1,1 @@
-
+Write a program in C++ to generate the Koch Snowflake Fractal using the recursive Koch curve generation method. Implement a function that divides a line segment into four new segments forming a "snowflake spike" using equilateral triangle geometry. Use the graphics.h library to visualize the snowflake for a given number of iterations.
