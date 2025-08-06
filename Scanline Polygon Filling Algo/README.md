@@ -1,1 +1,1 @@
-
+Write a program in C++ using graphics.h to implement the Scanline Polygon Filling Algorithm. Create a class-based structure where a Polygon class stores vertices and draws the polygon edges, and a FilledPolygon class fills the polygon using the scanline method. Handle concave polygons and ensure proper pairing of intersection points per scanline.
