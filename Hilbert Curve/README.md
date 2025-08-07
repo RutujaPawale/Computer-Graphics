@@ -9,11 +9,13 @@ Write a C++ program using the graphics.h library to draw a Hilbert Curve of recu
 4. Define a hilbert() recursive function that:
 
     -Draws the Hilbert pattern based on four directional arguments (r, d, l, u),
+
     -Takes recursion depth i, step size h, and current coordinates x, y as input,
+
     -Makes recursive calls to draw the pattern in each quadrant.
+ 
+6. Initialize the graphics window using initwindow() with custom resolution.
 
-5. Initialize the graphics window using initwindow() with custom resolution.
+7. Use moveto() and lineto() to perform graphical movement and drawing.
 
-6. Use moveto() and lineto() to perform graphical movement and drawing.
-
-7. Display the output for at least 10 seconds and then close the window.
+8. Display the output for at least 10 seconds and then close the window.
